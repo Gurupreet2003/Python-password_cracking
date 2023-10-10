@@ -1,0 +1,13 @@
+admin
+admin123
+password
+password123
+PASSWORD
+ADMIN
+root
+ROOT
+baseball
+football
+cricket
+lassan
+type something here
